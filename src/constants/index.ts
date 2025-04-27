@@ -1,9 +1,9 @@
 export const USER_PROGRAMS = [
   {
     id: 1,
-    first_name: "Sarah",
-    profilePic: "https://randomuser.me/api/portraits/men/74.jpg",
-    fitness_goal: "Weight Loss",
+    first_name: "Honourable PM Modi Ji",
+    profilePic: "https://images.firstpost.com/uploads/2024/05/PM-Modi-2024-05-7585e66cedcd2b046b303db80de11b88-1200x675.jpg?im=FitAndFill=(596,336)",
+    fitness_goal: "Chest Inflation",
     height: "5'6\"",
     weight: "165 lbs",
     age: 34,
@@ -39,8 +39,8 @@ export const USER_PROGRAMS = [
   },
   {
     id: 2,
-    first_name: "Michael",
-    profilePic: "https://randomuser.me/api/portraits/men/75.jpg",
+    first_name: "Rahul Gandhi",
+    profilePic: "https://assets.telegraphindia.com/telegraph/2023/Nov/1700551951_rahul-gandhi.jpg",
     fitness_goal: "Muscle Gain",
     height: "5'10\"",
     weight: "170 lbs",
@@ -78,8 +78,8 @@ export const USER_PROGRAMS = [
   },
   {
     id: 3,
-    first_name: "Elena",
-    profilePic: "https://randomuser.me/api/portraits/men/76.jpg",
+    first_name: "Sanatani Imran Khan",
+    profilePic: "https://indianexpress.com/wp-content/uploads/2019/07/imran-khan-1.jpg",
     fitness_goal: "General Fitness",
     height: "5'4\"",
     weight: "130 lbs",
